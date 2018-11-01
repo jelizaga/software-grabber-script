@@ -19,4 +19,6 @@ sudo apt install sublime-text lm-sensors spotify-client darktable git inkscape o
 
 sudo apt remove parole
 
+sudo apt autoremove
+
 sudo sensors-detect
