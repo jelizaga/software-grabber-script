@@ -8,6 +8,8 @@ sudo add-apt-repository ppa:lazka/ppa
 
 sudo add-apt-repository ppa:inkscape.dev/stable
 
+sudo apt-add-repository ppa:dolphin-emu/ppa
+
 sudo add-apt-repository ppa:kritalime/ppa
 
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 931FF8E79F0876134EDDBDCCA87FF9DF48BF1C90
@@ -15,7 +17,7 @@ echo deb http://repository.spotify.com stable non-free | sudo tee /etc/apt/sourc
 
 sudo apt update
 
-sudo apt install sublime-text lm-sensors spotify-client darktable git inkscape obs-studio quodlibet audacity docky ruby ruby-dev ffmpeg wireshark vlc shutter blender gimp terminator screenfetch vim synaptic gnome-disk-utility higan filezilla terminator
+sudo apt install sublime-text krita virtualbox pcsx2 pcsxr dolphin-emu lm-sensors spotify-client darktable git inkscape obs-studio quodlibet audacity docky ruby ruby-dev ffmpeg wireshark vlc shutter blender gimp terminator screenfetch vim synaptic gnome-disk-utility higan filezilla terminator
 
 sudo apt remove parole
 
