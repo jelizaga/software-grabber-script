@@ -1,8 +1,8 @@
-#Xubuntu Start-Up Software Installer
+# Xubuntu Start-Up Software Installer
 
-##Installs...
+## Installs...
 
-###Utilities
+### Utilities
 - Terminator
 - Synaptic Package Manager
 - Gnome Disk Utility
@@ -15,14 +15,14 @@
 - screenfetch
 - PIA VPN (installer included with script)
 
-###Software Development
+### Software Development
 - Sublime
 - Ruby
 - Ruby Dev
 - git
 - vim
 
-###Media Creation
+### Media Creation
 - Krita
 - Inkscape
 - DarkTable
@@ -32,21 +32,21 @@
 - Gimp
 - Blender
 
-###Media Consumption
+### Media Consumption
 - Spotify
 - Quod Libet
 - VLC
 
-###Fun
+### Fun
 - higan
 - PCSXR
 - PCSX2
 - Dolphin Emulator
 
-###Aesthetics
+### Aesthetics
 - Papirus
 
 ## Removes
 
-###Media Consumption
+### Media Consumption
 - Parole Media Player
