@@ -1,4 +1,10 @@
-# Xubuntu Start-Up Software Installer
+# Xubuntu Start-Up Software Grabber
+
+Script that grabs 'missing' software (stuff I use regularly) for freshly installed Xubuntu machines.
+
+No snaps; all apt. 
+
+I plan to make this more interactive in the future, but at the moment, this is just written for kickstarting my own machines.
 
 ## Installs...
 
@@ -13,7 +19,6 @@
 - Wireshark
 - Shutter
 - screenfetch
-- PIA VPN (installer included with script)
 
 ### Software Development
 - Sublime
@@ -21,6 +26,7 @@
 - Ruby Dev
 - git
 - vim
+- ssh
 
 ### Media Creation
 - Krita
@@ -31,6 +37,7 @@
 - ffmpeg
 - Gimp
 - Blender
+- youtube-dl
 
 ### Media Consumption
 - Spotify
@@ -42,9 +49,10 @@
 - PCSXR
 - PCSX2
 - Dolphin Emulator
+- RetroArch
 
 ### Aesthetics
-- Papirus
+- Papirus Icon Theme
 
 ## Removes
 
