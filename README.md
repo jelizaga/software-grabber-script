@@ -19,6 +19,7 @@ I plan to make this more interactive in the future, but at the moment, this is j
 - Wireshark
 - Shutter
 - screenfetch
+- DisplayCAL
 
 ### Software Development
 - Sublime
