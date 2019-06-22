@@ -31,6 +31,9 @@ sudo apt install -y lm-sensors
 # DISPLAYCAL
 wget https://displaycal.net/download/xUbuntu_19.04/amd64/DisplayCAL.deb
 sudo apt install -y ./DisplayCAL.deb
+#EXFAT
+sudo apt install exfat-fuse
+sudo apt install exfat-utils
 
 # SOFTWARE DEVELOPMENT ########################################################
 # SUBLIME

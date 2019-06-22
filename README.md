@@ -20,6 +20,7 @@ I plan to make this more interactive in the future, but at the moment, this is j
 - Shutter
 - screenfetch
 - DisplayCAL
+- exFAT
 
 ### Software Development
 - Sublime
