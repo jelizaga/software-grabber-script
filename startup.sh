@@ -31,9 +31,13 @@ sudo apt install -y lm-sensors
 # DISPLAYCAL
 wget https://displaycal.net/download/xUbuntu_19.04/amd64/DisplayCAL.deb
 sudo apt install -y ./DisplayCAL.deb
-#EXFAT
-sudo apt install exfat-fuse
-sudo apt install exfat-utils
+# EXFAT
+sudo apt install -y exfat-fuse
+sudo apt install -y exfat-utils
+# UNRAR
+sudo apt install -y unrar
+# CURL
+sudo apt install -y curl
 
 # SOFTWARE DEVELOPMENT ########################################################
 # SUBLIME
@@ -107,6 +111,9 @@ sudo apt install -y retroarch*
 sudo apt install -y pcsxr
 # PCSX2
 sudo apt install -y pcsx2
+# STEAM
+wget https://steamcdn-a.akamaihd.net/client/installer/steam.deb
+sudo apt install -y ./steam.deb
 
 # AESTHETICS ##################################################################
 # PAPIRUS ICONS

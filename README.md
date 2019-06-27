@@ -21,6 +21,8 @@ I plan to make this more interactive in the future, but at the moment, this is j
 - screenfetch
 - DisplayCAL
 - exFAT
+- unrar
+- curl
 
 ### Software Development
 - Sublime
@@ -52,6 +54,7 @@ I plan to make this more interactive in the future, but at the moment, this is j
 - PCSX2
 - Dolphin Emulator
 - RetroArch
+- Steam
 
 ### Aesthetics
 - Papirus Icon Theme
