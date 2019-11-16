@@ -12,6 +12,7 @@ I plan to make this more interactive in the future, but at the moment, this is j
 - Terminator
 - Synaptic Package Manager
 - Gnome Disk Utility
+- Startup Disk Creator
 - Filezilla
 - VirtualBox
 - Docky
@@ -33,8 +34,6 @@ I plan to make this more interactive in the future, but at the moment, this is j
 - ssh
 
 ### Media Creation
-- Krita
-- Inkscape
 - DarkTable
 - OBS Studio
 - Audacity
